@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: amite
+Build-Jdk: 9.0.4
+Implementation-Title: LibraryBookMaintenance
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: bookmaintenance
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/LibraryBookM
+ aintenance/
+Created-By: Maven Integration for Eclipse
+
